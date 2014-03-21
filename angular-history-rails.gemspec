@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Paul Vonderscher"]
   spec.email         = ["paul.vonderscher@gmail.com"]
   spec.summary       = %q{Adds the angular-history module to the asset pipeline}
-  spec.homepage      = "https://github.com/VonD/angular-history-rails"
+  spec.homepage      = "https://github.com/VonD/angular-history-rails/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
